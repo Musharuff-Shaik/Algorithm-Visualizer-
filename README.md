@@ -1,6 +1,6 @@
 # Algorithm-Visualizer-
 Algorithm Visualization of pathfinding and sorting algorithms
-<div align="center"> <img align="center" alt="algorithm-visualizer" src="Logo1.png" height='150' width='150'>
+<div align="center"> <img align="center" alt="algorithm-visualizer" src="Algorithm-Visualizer-master copy/Logo1.png" height='150' width='150'>
 
 <h1 align="center"> Algorithm-Visualizer</h1>
 
