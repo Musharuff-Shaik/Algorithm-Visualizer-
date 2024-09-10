@@ -100,5 +100,3 @@ $ git commit -m "add any comment"
 
 
 ## **Thank You**
-Made with Love ❤️️  &  Passion 🙏.
-> Like the project?? Give us a star ⭐. Have a nice day!
